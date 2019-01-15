@@ -1,5 +1,4 @@
-# Airbnb-Insights
-
+# Airbnb-Insights using Tableau
 Airbnb is a leading website where travelers can book beds, rooms, apartments, and homes all around the world. It provides a platform for the people to rent out their places at their convenience without involving complex channels or doing major investments. Travelers can also find a place to stay at much competitive prices as compared to hotels. Through Airbnb, travelers can find place to stay even in the areas where the likelihood of having hotels is very less. Many a times, even people prefer to stay in local settings, with local people.
 
 # Target Audience
